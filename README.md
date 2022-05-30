@@ -28,4 +28,4 @@ Blockcafien group members:<br />
 </p>
 
 <h2> Project Use Case Diagram</h2>
-![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/cajuon/medicineprescriptionsystem_blockchain/blob/main/Use-case-diagram.png)
+![Use case diagram](../Use-case-diagram.png)
