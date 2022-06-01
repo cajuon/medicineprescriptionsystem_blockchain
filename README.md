@@ -26,6 +26,3 @@ Blockcafien group members:<br />
 <p>
   The proposed project title is “Medicine Prescription System Using Blockchain”. Medicine prescription is written instructions from a doctor to a pharmacist, listing the certain dosage amount of a drug to the issued patient. In this project, we want to create a system that enables the doctor to fill in the patients’ required details and medicine dosage in their prescriptions. After that, prescriptions are shared with the pharmacist that prepares medicine according to the predetermined amount. Before the system is applied in blockchain, there are some possible weaknesses found including adverse drug reaction, medication errors and misadventure. From these concerns, we may apply blockchain technology that records the transactions in a digital environment and more secured. Hence, our goal is to provide a medicine prescription system using blockchain-based technology that can handle the most common failures such as incorrect dosage form, inaccurate medicine weightage, wrong dose prescription and preparation. With blockchain, the prescriptions are recorded in a safe and guaranteed nature, where no one can simply alter or remove the patients’ medical information.
 </p>
-
-<h2> Project Use case Diagram</h2>
- ![](https://github.com/cajuon/medicineprescriptionsystem_blockchain/blob/main/Use-case-diagram.png)
